@@ -17,7 +17,8 @@ permalink: /blog-ideas
 - Lack of testing 
 - Architecture 
   - Hexagonal 
-- Feature flag
+- Feature flags
+- Modernisation
 
 # Possible 
 
