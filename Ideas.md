@@ -1,3 +1,7 @@
+layout: page
+title: "blog-ideas"
+permalink: /blog-ideas
+
 # Certain
 
 - In memory database for integration testing 
