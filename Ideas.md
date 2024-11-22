@@ -19,6 +19,8 @@ permalink: /blog-ideas
   - Hexagonal 
 - Feature flags
 - Modernisation
+- Creating local dB with server SQL schema 
+  - host on docker?
 
 # Possible 
 
